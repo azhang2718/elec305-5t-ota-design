@@ -1,6 +1,4 @@
-# ELEC 305 – Project 1: 5-Transistor OTA Design
-
-**Rice University | ELEC 305 – Analog Integrated Circuit Design**
+# ELEC 305 Final Project: 5-Transistor OTA Design
 
 ---
 
@@ -114,8 +112,3 @@ Key transistor sizing (W/L in µm/µm):
    ```
 3. Run the simulation from xschem (Simulate → Run ngspice) or invoke ngspice directly from the generated `.spice` netlist.
 
----
-
-## Author
-
-Anthony Zhang — Rice University, ELEC 305
